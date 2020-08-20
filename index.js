@@ -5,8 +5,7 @@ function cool() {
 }
 
 document.addEventListener("DOMContentLoaded", function(cool) {
-  console.log("The DOM has loaded");
-  text = "This is really cool!"
+  Update
 });
 
 console.log(
