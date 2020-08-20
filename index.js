@@ -6,7 +6,7 @@ function cool() {
 
 document.addEventListener("DOMContentLoaded", function(cool) {
   console.log("The DOM has loaded");
-  text = "This is really cool!"
+  text = "JavaScript is so cool. It lets me add text to my page programmatically."
 });
 
 console.log(
