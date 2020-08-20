@@ -9,4 +9,5 @@ document.addEventListener("DOMContentLoaded", function() {
 } );
 
 function updateDom() { 
-  document.findElementById = 
+  document.getElementById("text")
+  innerhtml = "This is really cool!"
