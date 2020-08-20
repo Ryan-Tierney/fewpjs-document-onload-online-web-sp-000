@@ -9,6 +9,5 @@ document.addEventListener("DOMContentLoaded", function() {
 } );
 
 function updateDom() { 
-  document.getElementById("text")
-  innerhtml = "This is really cool!"
+  document.getElementById("text").innerhtml = "This is really cool!"
 }
