@@ -5,7 +5,7 @@ function cool() {
 }
 
 document.addEventListener("DOMContentLoaded", function(cool) {
-  Update
+  updateDom()
 });
 
 console.log(
