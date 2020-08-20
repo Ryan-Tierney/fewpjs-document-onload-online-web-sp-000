@@ -4,7 +4,7 @@ function cool() {
   document.findElementById = "text"
 }
 
-document.addEventListener("DOMContentLoaded", function(cool) {
+document.addEventListener("DOMContentLoaded", function() {
   updateDom()
 } );
 
